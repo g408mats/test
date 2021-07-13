@@ -1,4 +1,4 @@
-ain:main.c
+make:main.c
      gcc -Wall -O -o main main.c -lm
-clean:main.c
+make cloan:main.c
       rm main *~
